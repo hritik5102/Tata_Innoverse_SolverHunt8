@@ -124,17 +124,16 @@ weighted avg       1.00      1.00      1.00      1604
 
 <div align="center" style="height:400px"> 
     <img src='Face_Mask_Detection.gif' width="90%">
-</div>
+    <h5><a href="https://www.youtube.com/watch?v=U66yhmRA2zU">Video source :- Why are some wearing face masks and others not?</a></h5
 
-**video source** : [KCTV5 News - Why are some wearing face masks and others not?](https://www.youtube.com/watch?v=U66yhmRA2zU)
+</div>
 
 ## Social Distancing Detector
 
 <div align="center" style="height:400px"> 
     <img src='Social_distancing.gif' width="80%">
+    <h5><a href="https://www.youtube.com/watch?v=aUdKzb4LGJI">Video source :- Pedestrian overpass - original video (sample)</a></h5
 </div>
-
-**video source** : [Pedestrian overpass - original video (sample) - BriefCam Syndex](https://www.youtube.com/watch?v=aUdKzb4LGJI)
 
 ## Clone git repository
 
