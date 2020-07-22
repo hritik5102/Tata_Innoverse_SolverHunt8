@@ -1,0 +1,2 @@
+model_checkpoint_path: "Face_Mask_Classification_weights.temp.hd5"
+all_model_checkpoint_paths: "Face_Mask_Classification_weights.temp.hd5"
