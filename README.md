@@ -123,17 +123,18 @@ weighted avg       1.00      1.00      1.00      1604
 ### Real time face mask detecting 
 
 <div align="center" style="height:400px"> 
-    <img src='Face_Mask_Detection.gif' width="90%">
-    <h5><a href="https://www.youtube.com/watch?v=U66yhmRA2zU">Video source :- Why are some wearing face masks and others not?</a></h5
-
+<img src='Face_Mask_Detection.gif' width="90%">
+<h4><a href="https://www.youtube.com/watch?v=U66yhmRA2zU">Video source :- Why are some wearing face masks and others not?</a></h4>
 </div>
+
 
 ## Social Distancing Detector
 
 <div align="center" style="height:400px"> 
-    <img src='Social_distancing.gif' width="80%">
-    <h5><a href="https://www.youtube.com/watch?v=aUdKzb4LGJI">Video source :- Pedestrian overpass - original video (sample)</a></h5
+<img src='Social_distancing.gif' width="80%">
+<h4><a href="https://www.youtube.com/watch?v=aUdKzb4LGJI">Video source :- Pedestrian overpass - original video (sample)</a></h4>
 </div>
+
 
 ## Clone git repository
 
