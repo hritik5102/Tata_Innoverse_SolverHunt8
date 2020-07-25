@@ -1,4 +1,4 @@
-## Tata_Innoverse_SolverHunt8 &nbsp; ![](https://img.shields.io/github/forks/hritik5102/Tata_Innoverse_SolverHunt8?style=social) ![](https://img.shields.io/github/stars/hritik5102/Tata_Innoverse_SolverHunt8?style=social) ![](https://img.shields.io/github/watchers/hritik5102/Tata_Innoverse_SolverHunt8?style=social) <br>
+## Tata_Innoverse_SolverHunt8 😷 &nbsp; ![](https://img.shields.io/github/forks/hritik5102/Tata_Innoverse_SolverHunt8?style=social) ![](https://img.shields.io/github/stars/hritik5102/Tata_Innoverse_SolverHunt8?style=social) ![](https://img.shields.io/github/watchers/hritik5102/Tata_Innoverse_SolverHunt8?style=social) <br>
 
 ![](https://img.shields.io/github/repo-size/hritik5102/Tata_Innoverse_SolverHunt8) ![](https://img.shields.io/github/license/hritik5102/Tata_Innoverse_SolverHunt8?color=red)<br>
 ![](https://img.shields.io/github/issues/hritik5102/Tata_Innoverse_SolverHunt8?color=green) ![](https://img.shields.io/github/issues-pr/hritik5102/Tata_Innoverse_SolverHunt8?color=green) ![](https://img.shields.io/github/downloads/hritik5102/Tata_Innoverse_SolverHunt8/total) ![](https://img.shields.io/github/last-commit/hritik5102/Tata_Innoverse_SolverHunt8) ![](https://img.shields.io/github/contributors/hritik5102/Tata_Innoverse_SolverHunt8)
@@ -10,6 +10,7 @@
   - [Face mask classification using MobileNetV2](#Face-mask-classification-using-custom-model)
   - [Face mask detector](#Face-mask-detector)
   - [Social Distancing Detector](#Social-Distancing-Detector)
+  - [Features](#features)
   - [Clone git repository](#Clone-git-repository)
   - [License](#License)
   - [Contributor](#Contributor)
@@ -27,7 +28,7 @@ Download the dataset by visiting the [Face mask dataset](https://drive.google.co
 
 📁 Face Mask Dataset <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📁 Training <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📁 Balidation <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📁 Validation <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📁 Testing <br/>
 
       
@@ -103,7 +104,8 @@ weighted avg       1.00      1.00      1.00      1604
 <img src='MobileNetV2_model_output/confusion_matrix.png' width=50%>
 </p>
 
-## Face mask detector
+## Face mask detector 
+
 
 ### Mask detection on image 
 
@@ -134,6 +136,14 @@ weighted avg       1.00      1.00      1.00      1604
 <img src='Social_distancing.gif' width="80%">
 <h4><a href="https://www.youtube.com/watch?v=aUdKzb4LGJI">Video source :- Pedestrian overpass - original video (sample)</a></h4>
 </div>
+
+## Features
+
+* live video surveillance to fight against covid-19 spread
+*  The project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.
+* Real time face mask detection and for social distancing tracking the crowd movement across the day time. 
+* Hot-spot area can be monitored by security forces from central station. 
+* If AI based solution used by authority then there will be less chance get infected security forces.
 
 
 ## Clone git repository
