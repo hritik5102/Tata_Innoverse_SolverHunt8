@@ -1,4 +1,4 @@
-## Tata_Innoverse_SolverHunt8 😷 &nbsp; ![](https://img.shields.io/github/forks/hritik5102/Tata_Innoverse_SolverHunt8?style=social) ![](https://img.shields.io/github/stars/hritik5102/Tata_Innoverse_SolverHunt8?style=social) ![](https://img.shields.io/github/watchers/hritik5102/Tata_Innoverse_SolverHunt8?style=social) <br>
+## Tata_Innoverse_SolverHunt8 😷 ![](https://img.shields.io/github/forks/hritik5102/Tata_Innoverse_SolverHunt8?style=social) ![](https://img.shields.io/github/stars/hritik5102/Tata_Innoverse_SolverHunt8?style=social) ![](https://img.shields.io/github/watchers/hritik5102/Tata_Innoverse_SolverHunt8?style=social) <br>
 
 ![](https://img.shields.io/github/repo-size/hritik5102/Tata_Innoverse_SolverHunt8) ![](https://img.shields.io/github/license/hritik5102/Tata_Innoverse_SolverHunt8?color=red)<br>
 ![](https://img.shields.io/github/issues/hritik5102/Tata_Innoverse_SolverHunt8?color=green) ![](https://img.shields.io/github/issues-pr/hritik5102/Tata_Innoverse_SolverHunt8?color=green) ![](https://img.shields.io/github/downloads/hritik5102/Tata_Innoverse_SolverHunt8/total) ![](https://img.shields.io/github/last-commit/hritik5102/Tata_Innoverse_SolverHunt8) ![](https://img.shields.io/github/contributors/hritik5102/Tata_Innoverse_SolverHunt8)
@@ -12,6 +12,7 @@
   - [Social Distancing Detector](#Social-Distancing-Detector)
   - [Features](#features)
   - [Clone git repository](#Clone-git-repository)
+  - [Google colab notebook](#Google-colab-notebook)
   - [License](#License)
   - [Contributor](#Contributor)
 
@@ -151,6 +152,18 @@ weighted avg       1.00      1.00      1.00      1604
 ```sh
     $ Git clone "https://github.com/hritik5102/Tata_Innoverse_SolverHunt8"
 ```
+
+
+
+## Google colab notebook
+
+| Filename |      Notebook  | 
+| ------------------------------------------- | --------------------------------                                                                                                                                                                                                                                                                        |
+| Face mask classification using custom model |      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hritik5102/Tata_Innoverse_SolverHunt8/blob/master/Face_Mask_Classification_Custom_model/Face_Mask_Classification.ipynb)  | 
+| Face mask classification using MobileNetv2 |      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hritik5102/Tata_Innoverse_SolverHunt8/blob/master/Face_Mask_Classification_MobileNetV2_model/Train_face_mask_Detector.ipynb)  | 
+| Face mask Detection on image |      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hritik5102/Tata_Innoverse_SolverHunt8/blob/master/Face_Mask_Detection/Detect_Face_Mask_Image.ipynb)  | 
+| Face mask Detection on video |      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hritik5102/Tata_Innoverse_SolverHunt8/blob/master/Face_Mask_Detection/Detect_Face_Mask_Video.ipynb)  | 
+| Social distancing detector   |      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hritik5102/Tata_Innoverse_SolverHunt8/blob/master/Social_Distancing_Detector/Real_time_social_distancing.ipynb)  | 
 
 ## License
 
