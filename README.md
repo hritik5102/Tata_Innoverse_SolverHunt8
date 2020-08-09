@@ -3,19 +3,18 @@
 ![](https://img.shields.io/github/repo-size/hritik5102/Tata_Innoverse_SolverHunt8) ![](https://img.shields.io/github/license/hritik5102/Tata_Innoverse_SolverHunt8?color=red)<br>
 ![](https://img.shields.io/github/issues/hritik5102/Tata_Innoverse_SolverHunt8?color=green) ![](https://img.shields.io/github/issues-pr/hritik5102/Tata_Innoverse_SolverHunt8?color=green) ![](https://img.shields.io/github/downloads/hritik5102/Tata_Innoverse_SolverHunt8/total) ![](https://img.shields.io/github/last-commit/hritik5102/Tata_Innoverse_SolverHunt8) ![](https://img.shields.io/github/contributors/hritik5102/Tata_Innoverse_SolverHunt8)
 
+## Content
 
-## Content 
-
-  - [Face mask classification using custom model](#Face-mask-classification-using-custom-model)
-  - [Face mask classification using MobileNetV2](#Face-mask-classification-using-custom-model)
-  - [Face mask detector](#Face-mask-detector)
-  - [Social Distancing Detector](#Social-Distancing-Detector)
-  - [Features](#features)
-  - [Clone git repository](#Clone-git-repository)
-  - [Google colab notebook](#Google-colab-notebook)
-  - [License](#License)
-  - [Contributor](#Contributor)
-
+- [Face mask classification using custom model](#Face-mask-classification-using-custom-model)
+- [Face mask classification using MobileNetV2](#Face-mask-classification-using-custom-model)
+- [Face mask detector](#Face-mask-detector)
+- [Social Distancing Detector](#Social-Distancing-Detector)
+- [Features](#features)
+- [Clone git repository](#Clone-git-repository)
+- [Google colab notebook](#Google-colab-notebook)
+- [Reference](#reference)
+- [License](#License)
+- [Contributor](#Contributor)
 
 ### Load data
 
@@ -28,12 +27,11 @@ Download the dataset by visiting the [Face mask dataset](https://drive.google.co
 <hr/>
 
 📁 Face Mask Dataset <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📁 Training <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📁 Validation <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📁 Testing <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📁 Training <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📁 Validation <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📁 Testing <br/>
 
-      
-      |__ Training 
+      |__ Training
         |______ WithMask: [Mask.1.jpg, Mask.2.jpg, Mask.3.jpg ....]
         |______ NO_Mask: [NO_Mask.1.jpg, NO_Mask.2.jpg, NO_Mask.3.jpg ...]
 
@@ -46,8 +44,6 @@ Download the dataset by visiting the [Face mask dataset](https://drive.google.co
 
 ## Face mask classification using custom model
 
-
-
 <table>
   <tr>
     <td align="center">Training and validation accuracy</td>
@@ -59,13 +55,11 @@ Download the dataset by visiting the [Face mask dataset](https://drive.google.co
   </tr>
  </table>
 
- ### Output prediction
+### Output prediction
 
 <p align="center">
 <img src='Custom_model_output/Detection.png' width=80%>
 </p>
-
-
 
 ## Face mask classification using MobileNetV2
 
@@ -105,10 +99,9 @@ weighted avg       1.00      1.00      1.00      1604
 <img src='MobileNetV2_model_output/confusion_matrix.png' width=50%>
 </p>
 
-## Face mask detector 
+## Face mask detector
 
-
-### Mask detection on image 
+### Mask detection on image
 
 <table>
   <tr>
@@ -122,14 +115,12 @@ weighted avg       1.00      1.00      1.00      1604
   </tr>
  </table>
 
-
-### Real time face mask detecting 
+### Real time face mask detecting
 
 <div align="center" style="height:400px"> 
 <img src='Face_Mask_Detection.gif' width="90%">
 <h4><a href="https://www.youtube.com/watch?v=U66yhmRA2zU">Video source :- Why are some wearing face masks and others not?</a></h4>
 </div>
-
 
 ## Social Distancing Detector
 
@@ -140,12 +131,11 @@ weighted avg       1.00      1.00      1.00      1604
 
 ## Features
 
-* live video surveillance to fight against covid-19 spread
-*  The project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.
-* Real time face mask detection and for social distancing tracking the crowd movement across the day time. 
-* Hot-spot area can be monitored by security forces from central station. 
-* If AI based solution used by authority then there will be less chance get infected security forces.
-
+- live video surveillance to fight against covid-19 spread
+- The project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.
+- Real time face mask detection and for social distancing tracking the crowd movement across the day time.
+- Hot-spot area can be monitored by security forces from central station.
+- If AI based solution used by authority then there will be less chance get infected security forces.
 
 ## Clone git repository
 
@@ -153,41 +143,53 @@ weighted avg       1.00      1.00      1.00      1604
     $ Git clone "https://github.com/hritik5102/Tata_Innoverse_SolverHunt8"
 ```
 
-
-
 ## Google colab notebook
 
-| Filename |      Notebook  | 
-| ------------------------------------------- | --------------------------------                                                                                                                                                                                                                                                                        |
-| Face mask classification using custom model |      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hritik5102/Tata_Innoverse_SolverHunt8/blob/master/Face_Mask_Classification_Custom_model/Face_Mask_Classification.ipynb)  | 
-| Face mask classification using MobileNetv2 |      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hritik5102/Tata_Innoverse_SolverHunt8/blob/master/Face_Mask_Classification_MobileNetV2_model/Train_face_mask_Detector.ipynb)  | 
-| Face mask Detection on image |      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hritik5102/Tata_Innoverse_SolverHunt8/blob/master/Face_Mask_Detection/Detect_Face_Mask_Image.ipynb)  | 
-| Face mask Detection on video |      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hritik5102/Tata_Innoverse_SolverHunt8/blob/master/Face_Mask_Detection/Detect_Face_Mask_Video.ipynb)  | 
-| Social distancing detector   |      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hritik5102/Tata_Innoverse_SolverHunt8/blob/master/Social_Distancing_Detector/Real_time_social_distancing.ipynb)  | 
+| Filename                                    | Notebook                                                                                                                                                                                                                                           |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Face mask classification using custom model | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hritik5102/Tata_Innoverse_SolverHunt8/blob/master/Face_Mask_Classification_Custom_model/Face_Mask_Classification.ipynb)      |
+| Face mask classification using MobileNetv2  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hritik5102/Tata_Innoverse_SolverHunt8/blob/master/Face_Mask_Classification_MobileNetV2_model/Train_face_mask_Detector.ipynb) |
+| Face mask Detection on image                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hritik5102/Tata_Innoverse_SolverHunt8/blob/master/Face_Mask_Detection/Detect_Face_Mask_Image.ipynb)                          |
+| Face mask Detection on video                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hritik5102/Tata_Innoverse_SolverHunt8/blob/master/Face_Mask_Detection/Detect_Face_Mask_Video.ipynb)                          |
+| Social distancing detector                  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hritik5102/Tata_Innoverse_SolverHunt8/blob/master/Social_Distancing_Detector/Real_time_social_distancing.ipynb)              |
+
+## Reference
+
+- [Pyimagesearch - face mask detector with opencv keras tensorflow and deep learning](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
+
+- [Pyimagesearch - opencv social distancing detector](https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/)
+
+## Note
+
+If anyone think that i've referred any piece of code or material from blog or website and not acknowledge them. <br/>
+
+```
+  so just do one thing , create an issue and mention the following website or blog (i.e from where i reffered but did not given an acknowledge).
+  i will add that links in the reference section and also in reference.md file .
+```
 
 ## License
 
-Licensed under the [MIT License](LICENSE) 
+Licensed under the [MIT License](LICENSE)
 
 ## Contributor
 
 <p align="center">
 
-|  <a href="https://hritik5102.github.io/"><img src="https://avatars.githubusercontent.com/hritik5102" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Hritik Jaiswal](https://hritik5102.github.io/)**                                                                                |
-|<a href="https://twitter.com/HritikJ71241501"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/hritik5102"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/hritik.jaiswal.56808"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/hritik-jaiswal-22a136166/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
-
+|                                                                                                                                                                                                                   <a href="https://hritik5102.github.io/"><img src="https://avatars.githubusercontent.com/hritik5102" width="150px" height="150px" /></a>                                                                                                                                                                                                                    |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                                                                                                                                             **[Hritik Jaiswal](https://hritik5102.github.io/)**                                                                                                                                                                                                                                                              |
+| <a href="https://twitter.com/HritikJ71241501"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/hritik5102"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/hritik.jaiswal.56808"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/hritik-jaiswal-22a136166/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
 
 <hr/>
 
 ```bash
 ╔═╗╔╦╗╔═╗╦ ╦  ╦ ╦╔═╗╔╦╗╔═╗
-╚═╗ ║ ╠═╣╚╦╝  ╠═╣║ ║║║║║╣ 
+╚═╗ ║ ╠═╣╚╦╝  ╠═╣║ ║║║║║╣
 ╚═╝ ╩ ╩ ╩ ╩   ╩ ╩╚═╝╩ ╩╚═╝
 ╔═╗╔╦╗╔═╗╦ ╦  ╔═╗╔═╗╔═╗╔═╗
-╚═╗ ║ ╠═╣╚╦╝  ╚═╗╠═╣╠╣ ║╣ 
-╚═╝ ╩ ╩ ╩ ╩   ╚═╝╩ ╩╚  ╚═╝ 
+╚═╗ ║ ╠═╣╚╦╝  ╚═╗╠═╣╠╣ ║╣
+╚═╝ ╩ ╩ ╩ ╩   ╚═╝╩ ╩╚  ╚═╝
 ```
-</p>
 
+</p>
