@@ -159,15 +159,6 @@ weighted avg       1.00      1.00      1.00      1604
 
 - [Pyimagesearch - opencv social distancing detector](https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/)
 
-## Note
-
-If anyone think that i've referred any piece of code or material from blog or website and not acknowledge them. <br/>
-
-```
-  so just do one thing , create an issue and mention the following website or blog (i.e from where i reffered but did not given an acknowledge).
-  i will add that links in the reference section and also in reference.md file .
-```
-
 ## License
 
 Licensed under the [MIT License](LICENSE)
